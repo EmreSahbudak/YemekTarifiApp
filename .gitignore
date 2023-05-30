@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/auth-service/build/
+/auth-service/build/classes/java/main/
+/comment-service/build/
+/comment-service/build/classes/java/main/
+/config-server/build/
+/config-server/build/classes/java/main/
+/mail-service/build/
+/mail-service/build/classes/java/main/
+/recipe-service/build/
+/recipe-service/build/classes/java/main/
+/user-service/build/
+/user-service/build/classes/java/main/
